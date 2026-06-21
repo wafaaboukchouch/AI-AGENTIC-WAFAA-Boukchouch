@@ -30,4 +30,4 @@ python chef_personnel_agent.py
 
 ## Exemple d'utilisation
 - "Bonjour, je suis Wafaa. Je suis végétarienne et j'adore le piment."
-- "J'ai des oeufs, tomates, fromage, oignons et pain. Propose-moi un plat."
+- "J'ai des oeufs, tomates, fromage, oignons et pain. Propose-moi un plat.
